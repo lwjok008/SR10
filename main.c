@@ -50,7 +50,7 @@
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
 /* Private variables ---------------------------------------------------------*/
-
+uint8_t LWJ;
 uint8_t aTxStartMessage[10] ={0X55,0X55,0X55,0X55,0X55,0XAA,0XAA,0XAA,0XAA,0XAA};
 uint8_t Send_buf[8] = {0} ;
 uint8_t Rx_count_UART1,Rx_count_UART2,Rx_count_UART3,Rx_count_UART4;
