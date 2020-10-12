@@ -1,0 +1,14 @@
+LCD_TFT.c:24:6:LCD_DA	16	static
+LCD_TFT.c:60:6:delay1	4	static,ignoring_inline_asm
+LCD_TFT.c:67:6:vSdCmd	16	static
+LCD_TFT.c:85:6:vSdData	16	static
+LCD_TFT.c:106:6:data_out_16	24	static
+LCD_TFT.c:117:6:lcd_Dot	16	static
+LCD_TFT.c:138:6:lcd_init	8	static
+LCD_TFT.c:163:6:lcd_address	32	static
+LCD_TFT.c:185:6:TFT_Disp128160	24	static
+LCD_TFT.c:211:6:mono_data_out	32	static
+LCD_TFT.c:228:6:disp_ASCII_8x16	40	static
+LCD_TFT.c:242:6:disp_24x24	32	static
+LCD_TFT.c:255:6:disp_16x16	32	static
+LCD_TFT.c:270:6:display_color	24	static

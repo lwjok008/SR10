@@ -1,0 +1,8 @@
+main.c:118:6:delay_init	8	static
+main.c:141:6:delay_us1	12	static
+main.c:334:6:SystemClock_Config	104	static
+main.c:376:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:553:6:HAL_UART_RxCpltCallback	16	static
+main.c:600:6:IOT_PROCESS	48	static
+main.c:170:5:main	8	static
+main.c:693:6:Error_Handler	0	static

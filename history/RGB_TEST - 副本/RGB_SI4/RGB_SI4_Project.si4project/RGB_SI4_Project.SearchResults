@@ -1,0 +1,3 @@
+---- delay_us Matches (2 in 2 files) ----
+main.c (E:\STM32Cube\RGB_TEST\Core\Src) line 101 : void delay_us(uint32_t us)
+main.h (E:\STM32Cube\RGB_TEST\Core\Inc) line 276 : extern void delay_us(uint32_t us);
